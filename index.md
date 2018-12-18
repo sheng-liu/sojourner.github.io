@@ -5,12 +5,12 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
+- [Blog post](https://chauff.github.io/2018-12-12-groupsize/) about our latest Information Retrieval Journal article is up where we explore the impact of group size on collaborative search effectiveness.
 - Three colleagues and I have set up a monthly [Delft AI meetup group](https://www.meetup.com/Delft-AI-Meetup/). Join it if you are a local!
 - [Blog post](https://chauff.github.io/2018-11-04-emnlp/) on EMNLP 2018 is up!
-- As of October 2018 I have finally created [extensive lectures materials](https://github.com/chauff/Web-Teaching) (assignments, transcripts, demo applications) for my first year BSc Computer Science & Engineering web technology lectures. 
+- As of October 2018 I have created [extensive lectures materials](https://github.com/chauff/Web-Teaching) (assignments, transcripts, demo applications, exams) for my first year BSc Computer Science & Engineering web technology lectures. 
 - If you are interested in a **PhD or Postdoc position in information retrieval and related areas** (NLP, data science) please get in touch!
 - Our paper *Contrasting search as a learning activity with instructor-designed learning* led by Felipe Moraes with Sindunuraga Rikarno Putra, a Master student in my team, as second author, accepted as a full paper at **CIKM 2018** ([blog post](https://chauff.github.io/2018-08-07-sal-at-cikm/)). 
-- Two demos of my team made an appearance at SIGIR 2018: a collaborative search (on GitHub: [frontend](https://github.com/felipemoraes/searchx-frontend) and [backend](https://github.com/felipemoraes/searchx-backend)) and an A/B testing framework (also on [GitHub](https://marrerom.github.io/APONE/))
 
 <p>
  <a class="twitter-timeline"
