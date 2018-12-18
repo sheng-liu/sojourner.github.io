@@ -3,12 +3,12 @@ layout: page
 title: Publications
 ---
 
-I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html).
+I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html). 
 
 ## 2019
 
 <img src="../img/journal-article.png" height="20px">
-Felipe Moraes, Kilian Grashoff and Claudia Hauff. *On the Impact of Group Size on Collaborative Search Effectiveness*, accepted at the Information Retrieval Journal.
+Felipe Moraes, Kilian Grashoff and Claudia Hauff. *On the Impact of Group Size on Collaborative Search Effectiveness*, accepted at the Information Retrieval Journal. [[PDF Preprint&#8594;]](../documents/publications/IRJ2019-Moraes.pdf) [[Blog post&#8594;]](https://chauff.github.io/2018-12-12-groupsize/)
 
 <img src="../img/demo-paper.png" height="20px">
 Felipe Moraes and Claudia Hauff. *node-indri: moving the Indri toolkit to the modern Web stack*, accepted at the [41st European Conference on Information Retrieval](http://ecir2019.org/).
