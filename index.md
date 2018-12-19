@@ -94,6 +94,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Invited speaker at the *Israeli Learning Analytics Symposium* (March 2019)
 - Tutorial chair at ICTIR 2019
 - Workshop co-chair at SIGIR 2019
+- Search as Learning Workshop organizer at the [CEL Annual Meeting 2018](https://www.educationandlearning.nl/agenda/2018-12-19-annual-meeting-2018-curious-explore-learn-and-share) ([slides](https://docs.google.com/presentation/d/e/2PACX-1vRO3JcwGmA0AeaaOfPMenTaqARaRPWY0y1pyCzZb7f1aP7Da0ZHozO7WzR8LXg_ZS1NpnEO4Ina7GVQ/pub?start=false&loop=false&delayms=3000))
 - [Delft AI meetup co-organizer](https://www.meetup.com/Delft-AI-Meetup/) (active since November 2018)
 - Tutorial co-chair at [WSDM 2019](http://www.wsdm-conference.org/2019/)
 - Short paper co-chair at [ECIR 2019](http://ecir2019.org/)
