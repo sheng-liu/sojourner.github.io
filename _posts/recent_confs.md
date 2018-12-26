@@ -1,0 +1,36 @@
+---
+layout: post
+title: Interesting finds at ICLR 2019
+---
+
+1. [No Training Required: Exploring Random Encoders for Sentence Classification](https://openreview.net/forum?id=BkgPajAcY7)
+2. [A comprehensive, application-oriented study of catastrophic forgetting in DNNs](https://openreview.net/forum?id=BkloRs0qK7)
+3. [Generative Question Answering: Learning to Answer the Whole Question](https://openreview.net/forum?id=Bkx0RjA9tX)
+4. [Efficient Multi-Objective Neural Architecture Search via Lamarckian Evolution](https://openreview.net/forum?id=ByME42AqK7)
+5. [FlowQA: Grasping Flow in History for Conversational Machine Comprehension](https://openreview.net/forum?id=ByftGnR9KX)
+6. [Adaptive Input Representations for Neural Language Modeling](https://openreview.net/forum?id=ByxZX20qFQ)
+7. [CBOW Is Not All You Need: Combining CBOW with the Compositional Matrix Space Model](https://openreview.net/forum?id=H1MgjoR9tQ)
+8. [Understanding Composition of Word Embeddings via Tensor Decomposition](https://openreview.net/forum?id=H1eqjiCctX)
+9. [Structured Neural Summarization](https://openreview.net/forum?id=H1ersoRqtm)
+10. [code2seq: Generating Sequences from Structured Representations of Code](https://openreview.net/forum?id=H1gKYo09tX)
+11. [Analysing Mathematical Reasoning Abilities of Neural Models](https://openreview.net/forum?id=H1gR5iR5FX)
+12. [Benchmarking Neural Network Robustness to Common Corruptions and Perturbations](https://openreview.net/forum?id=HJz6tiCqYm)
+13. [Multi-step Retriever-Reader Interaction for Scalable Open-domain Question Answering](https://openreview.net/forum?id=HkfPSh05K7)
+14. [Visualizing and Understanding Generative Adversarial Networks](https://openreview.net/forum?id=Hyg_X2C5FX)
+15. [Stable Recurrent Models](https://openreview.net/forum?id=Hygxb2CqKm)
+16. [Discovery of natural language concepts in individual units](https://openreview.net/forum?id=S1EERs09YQ)
+17. [Building Dynamic Knowledge Graphs from Text using Machine Reading Comprehension](https://openreview.net/forum?id=S1lhbnRqF7)
+18. [Representation Degeneration Problem in Training Natural Language Generation Models](https://openreview.net/forum?id=SkEYojRqtm)
+19. [Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering](https://openreview.net/forum?id=Syl7OsRqY7)
+20. [Wizard of Wikipedia: Knowledge-Powered Conversational Agents](https://openreview.net/forum?id=r1l73iRqKm)
+21. [GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding](https://openreview.net/forum?id=rJ4km2R5t7)
+22. [BabyAI: First Steps Towards Grounded Language Learning With a Human In the Loop](https://openreview.net/forum?id=rJeXCo0cYX)
+23. [Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation](https://openreview.net/forum?id=rkgT3jRct7)
+24. [Synthetic Datasets for Neural Program Synthesis](https://openreview.net/forum?id=ryeOSnAqYm)
+25. [Learning to Represent Edits](https://openreview.net/forum?id=BJl6AjC5F7)
+26. [Learning to Navigate the Web](https://openreview.net/forum?id=BJemQ209FQ)
+27. [Knowledge Flow: Improve Upon Your Teachers](https://openreview.net/forum?id=BJeOioA9Y7)
+28. [How Powerful are Graph Neural Networks?](https://openreview.net/forum?id=ryGs6iA5Km)
+29. [Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://openreview.net/forum?id=B1l6qiR5F7)
+
+
