@@ -90,6 +90,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## Organizational duties and activities
+- Computational Science Advisory Board member of the [Lorentz Center](http://www.lorentzcenter.nl/) (since 2019)
 - Program Co-Chair for CIKM 2020
 - Invited speaker at the *Israeli Learning Analytics Symposium* (March 2019)
 - Tutorial chair at ICTIR 2019
