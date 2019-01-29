@@ -45,9 +45,7 @@ including query performance prediction (the topic of [my PhD thesis](../document
 social search, computational social science, 
 learning to search and IR for specific user groups.
 
-I have diverse research interests and am always happy to dive into a new area. Together with four PhD students I am currently focusing on large-scale learning analytics and how to incorporate search into the learning process at scale. In 2016 and 2017 I have been awarded two prestigious personal grants by the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area; take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground for my [Lambda-Lab](http://www.wis.ewi.tudelft.nl/projects/lambda-lab/) team. To get a quick overview of the kind of questions we have recently published about, take a look at the following slides, they cover each contribution in 1-2 slides (check the speaker notes as well):
-
-<iframe src="https://docs.google.com/presentation/d/1VT1qPqeAWwM20cDH_3i0cYlEmm2cPa4ZtVy4KEuJvFY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+I have diverse research interests and am always happy to dive into a new area. Together with a number of PhD students I am currently focusing on large-scale learning analytics and how to incorporate search into the human learning process at scale (lately through the use of conversational search). In 2016 and 2017 I have been awarded two prestigious personal grants by the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area; take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground for my [Lambda-Lab](http://www.wis.ewi.tudelft.nl/projects/lambda-lab/) team. 
 
 I also recently gave an invited keynote at the French IR conference [CORIA 2018](https://project.inria.fr/coriataln2018/fr/) on the topic of Search as Learning:
 
@@ -66,18 +64,22 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Current members of my lab
-- Arthur Barbosa Câmara (PhD student, starting 11/2018)
-- Gustavo Penha (PhD student, starting 11/2018)
-- [Guanliang Chen](https://angusglchen.github.io/) (PhD student, ongoing)
-- [Yue Zhao](http://www.wis.ewi.tudelft.nl/zhao/) (PhD student, ongoing)
-- [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing)
-- [Dan Davis](https://dan7davis.github.io/) (PhD student, ongoing)
+- Arthur Barbosa Câmara (PhD student, since 11/2018)
+- Gustavo Penha (PhD student, since 11/2018)
+- [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing )
 - [Dimitrios Bountouridis](http://www.wis.ewi.tudelft.nl/bountouridis/) (Postdoc, ongoing)
+- [Dan Davis](https://dan7davis.github.io/) (PhD student, completion in 05/2019)
+- [Guanliang Chen](https://angusglchen.github.io/) (PhD student, completion in 05/2019)
+- [Yue Zhao](http://www.wis.ewi.tudelft.nl/zhao/) (PhD student, completion in 04/2019)
 
-## Past lab members
+## Past members of my lab
 - [Ke Tao](https://scholar.google.com/citations?user=KkPTloIAAAAJ&hl=en) (PhD student, graduated in 2014)
-- Monica Marrero (Research engineer, 2017-18)
+- Mónica Marrero (Research engineer, 2017-18)
 
+## Lab software
+
+- [SearchX](https://github.com/felipemoraes/searchx) is a scalable collaborative search system, developed to research large-scale search and sensemaking experiments. Lead developer is Felipe Moraes.
+- [APONE](https://marrerom.github.io/APONE/) is an academic environment for online experiments, that we have used in our research and teaching. Lead developer is Mónica Marrero.
 
 ## Grants
 - NWO Aspasia grant (**100,000€**) as a top-up of my NWO VIDI (50K for my research, 50K for diversity measures in the faculty), September 2018.
