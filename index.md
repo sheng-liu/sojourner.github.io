@@ -47,7 +47,7 @@ learning to search and IR for specific user groups.
 
 I have diverse research interests and am always happy to dive into a new area. Together with a number of PhD students I am currently focusing on large-scale learning analytics and how to incorporate search into the human learning process at scale (lately through the use of conversational search). In 2016 and 2017 I have been awarded two prestigious personal grants by the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area; take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground for my [Lambda-Lab](http://www.wis.ewi.tudelft.nl/projects/lambda-lab/) team. 
 
-I also recently gave an invited keynote at the French IR conference [CORIA 2018](https://project.inria.fr/coriataln2018/fr/) on the topic of Search as Learning:
+In 2018, I gave an invited keynote at the French IR conference [CORIA 2018](https://project.inria.fr/coriataln2018/fr/) on the topic of Search as Learning:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
