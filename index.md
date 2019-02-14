@@ -5,6 +5,7 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
+- [Link](https://docs.google.com/presentation/d/1AktQctiKOIQ2PMB8egPu5Hzt6pEir_hvnss9oytl4-I/edit?usp=sharing)
 - [Blog post](https://chauff.github.io/2018-12-12-groupsize/) about our latest Information Retrieval Journal article is up where we explore the impact of group size on collaborative search effectiveness.
 - Three colleagues and I have set up a monthly [Delft AI meetup group](https://www.meetup.com/Delft-AI-Meetup/). Join it if you are a local!
 - [Blog post](https://chauff.github.io/2018-11-04-emnlp/) on EMNLP 2018 is up!
