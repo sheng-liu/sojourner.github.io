@@ -5,6 +5,7 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
+- Between February and April 2019 I am co-teaching the MSc Information Retrieval course at TU Delft. All materials are available [on GitHub](https://github.com/chauff/IN4325).
 - [Blog post](https://chauff.github.io/2018-12-12-groupsize/) about our latest Information Retrieval Journal article is up where we explore the impact of group size on collaborative search effectiveness.
 - Three colleagues and I have set up a monthly [Delft AI meetup group](https://www.meetup.com/Delft-AI-Meetup/). Join it if you are a local!
 - [Blog post](https://chauff.github.io/2018-11-04-emnlp/) on EMNLP 2018 is up!
