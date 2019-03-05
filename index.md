@@ -95,6 +95,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 
 ## Organizational duties and activities
 - Invited participant at the [Conversational Search Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461) (November 2019)
+- Lecturer at ESSIR (July 2019)
+- Invited participant at the CIFAR workshop *AI-Powered Information Ecosystems and Democracy* (June 2019)
 - Invited talk at the *Search Engines Amsterdam* meetup (tentative: April 2019)
 - Computational Science Advisory Board member of the [Lorentz Center](http://www.lorentzcenter.nl/) (since 2019)
 - Program Co-Chair for CIKM 2020
