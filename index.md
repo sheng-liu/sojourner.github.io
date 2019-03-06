@@ -52,6 +52,10 @@ In 2018, I gave an invited keynote at the French IR conference [CORIA 2018](http
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+A very condensed overview of my team's research efforts over the last ~4 years can be found here (lots of MOOC work as well as search as learning):
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4kV6uojsYwbTMxhzTGP5k_9wNV2kZtR6OHGm0bT-ayrUnoNFiV-kK_vBtfJdSrsHQfMlmWelrJQ-p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Contact
 
 ```
