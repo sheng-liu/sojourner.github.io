@@ -98,6 +98,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## Organizational duties and activities
+- Co-organizer of the SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)
 - Invited participant at the [Conversational Search Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461) (November 2019)
 - Lecturer at ESSIR (July 2019)
 - Invited participant at the CIFAR workshop *AI-Powered Information Ecosystems and Democracy* (June 2019)
