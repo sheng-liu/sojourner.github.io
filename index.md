@@ -105,7 +105,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Invited talk at the *Search Engines Amsterdam* meetup (tentative: April 2019)
 - Computational Science Advisory Board member of the [Lorentz Center](http://www.lorentzcenter.nl/) (since 2019)
 - Program Co-Chair for CIKM 2020
-- Invited speaker at the *Israeli Learning Analytics Symposium* (March 2019)
+- Invited speaker at the *Israeli Learning Analytics Symposium* ([slides](https://docs.google.com/presentation/d/e/2PACX-1vT4Qm9Uz2VCzJWWs9m-4XnkebO7SiIUhH6Z3N28PYREszzM9cVCvwUDgnNcGTwA0IqkQ9KATrQ-kgPO/pub?start=false&loop=false&delayms=3000))
 - Tutorial chair at ICTIR 2019
 - Workshop co-chair at SIGIR 2019
 - [Delft AI meetup co-organizer](https://www.meetup.com/Delft-AI-Meetup/) (active since November 2018)
