@@ -102,7 +102,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Invited participant at the [Conversational Search Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461) (November 2019)
 - Lecturer at ESSIR (July 2019)
 - Invited participant at the CIFAR workshop *AI-Powered Information Ecosystems and Democracy* (June 2019)
-- Invited talk at the *Search Engines Amsterdam* meetup (tentative: April 2019)
+- Invited talk at the *Search Engines Amsterdam* [meetup](https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/qvfxgpyzgbjc/) (April 2019)
 - Computational Science Advisory Board member of the [Lorentz Center](http://www.lorentzcenter.nl/) (since 2019)
 - Program Co-Chair for CIKM 2020
 - Invited speaker at the *Israeli Learning Analytics Symposium* ([slides](https://docs.google.com/presentation/d/e/2PACX-1vT4Qm9Uz2VCzJWWs9m-4XnkebO7SiIUhH6Z3N28PYREszzM9cVCvwUDgnNcGTwA0IqkQ9KATrQ-kgPO/pub?start=false&loop=false&delayms=3000)) held at the [Weizmann Institute](http://www.weizmann.ac.il/conferences/isla-2019/israeli-symposium-learning-analytics)
