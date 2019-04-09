@@ -71,15 +71,15 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ## Current members of my lab
 - Arthur Barbosa Câmara (PhD student, since 11/2018)
 - Gustavo Penha (PhD student, since 11/2018)
-- [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing )
+- [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing)
 - [Dimitrios Bountouridis](http://www.wis.ewi.tudelft.nl/bountouridis/) (Postdoc, ongoing)
 - [Dan Davis](https://dan7davis.github.io/) (PhD student, completion in 05/2019)
 - [Guanliang Chen](https://angusglchen.github.io/) (PhD student, completion in 05/2019)
-- [Yue Zhao](http://www.wis.ewi.tudelft.nl/zhao/) (PhD student, completion in 04/2019)
 
 ## Past members of my lab
-- [Ke Tao](https://scholar.google.com/citations?user=KkPTloIAAAAJ&hl=en) (PhD student, graduated in 2014)
+- [Yue Zhao](http://www.wis.ewi.tudelft.nl/zhao/) (PhD student, graduated in 2019 on the topic of [Learning Analytics Technology to Understand Learner Behavioral Engagement in MOOCs](http://resolver.tudelft.nl/uuid:2aff1a7e-45eb-4d10-9944-8e06ef12b9fa))
 - Mónica Marrero (Research engineer, 2017-18)
+- [Ke Tao](https://scholar.google.com/citations?user=KkPTloIAAAAJ&hl=en) (PhD student, graduated in 2014 on [Social Web Data Analytics: Relevance, Redundancy, Diversity](https://doi.org/10.4233/uuid:1af94380-1414-4497-bfc6-a67b213de050))
 
 ## Lab software
 
