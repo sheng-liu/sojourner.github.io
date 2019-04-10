@@ -14,7 +14,7 @@ Felipe Moraes, Kilian Grashoff and Claudia Hauff. *On the Impact of Group Size o
 Felipe Moraes and Claudia Hauff. *node-indri: moving the Indri toolkit to the modern Web stack*, accepted at the [41st European Conference on Information Retrieval](http://ecir2019.org/). [[PDF Preprint&#8594;]](../documents/publications/ECIR2019-moraes.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
-Daniël Rennings, Felipe Moraes and Claudia Hauff. *An Axiomatic Approach to Diagnosing Neural IR Models*, accepted at the [41st European Conference on Information Retrieval](http://ecir2019.org/). [[PDF Preprint&#8594;]](../documents/publications/ECIR2019-rennings.pdf)
+Daniël Rennings, Felipe Moraes and Claudia Hauff. *An Axiomatic Approach to Diagnosing Neural IR Models*, accepted at the [41st European Conference on Information Retrieval](http://ecir2019.org/). [[PDF Preprint&#8594;]](../documents/publications/ECIR2019-rennings.pdf) [Springer Journal&#8594;]](https://link.springer.com/chapter/10.1007/978-3-030-15712-8_32)
 
 <img src="../img/conference-paper.png" height="20px">
 Dimitrios Bountouridis, Jaron Harambam, Mykola Makhortykh, Monica Marrero, Nava Tintarev and Claudia Hauff. *SIREN: A Simulation Framework for Understanding the Effects of Recommender Systems in Online News Environments*, accepted at the [2nd ACM Conference on Fairness, Accountability, and Transparency](https://fatconference.org/2019/index.html). [[PDF Preprint&#8594;]](../documents/publications/FAT2019-Bountouridis.pdf)
