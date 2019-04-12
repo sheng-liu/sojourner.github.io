@@ -12,6 +12,7 @@ subtitle: Web Information Systems, TU Delft
 - As of October 2018 I have created [extensive lectures materials](https://github.com/chauff/Web-Teaching) (assignments, transcripts, demo applications, exams) for my first year BSc Computer Science & Engineering web technology lectures. 
 - If you are interested in a **PhD or Postdoc position in information retrieval and related areas** (NLP, data science) please get in touch!
 - Our paper *Contrasting search as a learning activity with instructor-designed learning* led by Felipe Moraes with Sindunuraga Rikarno Putra, a Master student in my team, as second author, accepted as a full paper at **CIKM 2018** ([blog post](https://chauff.github.io/2018-08-07-sal-at-cikm/)). 
+- [Pitch for DAIRE 2019 workshop](https://docs.google.com/presentation/d/11f16fZA_JD_XtddCkQrbozcYL5f7rrmODBhjLABbeoc/edit?usp=sharing).
 
 <p>
  <a class="twitter-timeline"
