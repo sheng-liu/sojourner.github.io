@@ -19,7 +19,7 @@ In our recently accepted ECIR 2019 paper ([preprint](https://chauff.github.io/do
 @inproceedings{ECIR2019Axiomatic,
   author    = {Dani{\"{e}}l Rennings and Felipe Moraes and Claudia Hauff},
   title     = {An Axiomatic Approach to Diagnosing Neural {IR} Models},
-  booktitle = {{ECIR} 2019},
+  booktitle = {ECIR 2019},
   pages     = {489--503},
   year      = {2019}
 }
