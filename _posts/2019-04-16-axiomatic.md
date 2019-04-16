@@ -26,7 +26,9 @@ In our recently accepted ECIR 2019 paper ([preprint](https://chauff.github.io/do
 }
 ```
 
-we propose a pipeline to create large-scale **diagnostic datasets** for IR, each engineered to fulfill one axiom. We execute our pipeline on the recently released question answering dataset [WikiPassageQA](https://arxiv.org/abs/1805.03797) (which contains over 4000 topics) and create diagnostic datasets for four axioms. Each diagnostic dataset contains more than 10K *diagnostic instances*, i.e. instances that fulfil a particular axiom. Importantly, as in actual datasets we are unlikely to encounter instances that fit the existing axioms exactly (e.g. for `TFC1` that would require finding pairs of documents that are exactly the same length and differ in their count of single-term query), we had to extend and relax the existing axioms to enable us to find diagnostic instances in existing datasets.
+we propose a pipeline to create large-scale **diagnostic datasets** for IR, each engineered to fulfill one axiom. We execute our pipeline on the recently released question answering dataset [WikiPassageQA](https://arxiv.org/abs/1805.03797) (which contains over 4000 topics) and create diagnostic datasets for four axioms. Each diagnostic dataset contains more than 10K *diagnostic instances*, i.e. instances that fulfil a particular axiom. 
+
+Importantly, as in actual datasets we are unlikely to encounter instances that fit the existing axioms exactly (e.g. for `TFC1` that would require finding pairs of documents that are exactly the same length and differ in their count of single-term query), we had to extend and relax the existing axioms to enable us to find diagnostic instances in existing datasets.
 
 <img src="https://chauff.github.io/img/ecir2019-pipeline.png" width="800px">
 
