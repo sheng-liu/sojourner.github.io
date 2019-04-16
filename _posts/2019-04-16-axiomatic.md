@@ -16,6 +16,7 @@ The axiomatic approach to IR has shown that the effectiveness of a retrieval met
 Ideally, we employ a similar axiomatic approach to diagnose and fix neural IR models in order to reap the benefits deep learning has offered in other fields. However, as these models may contain millions of parameters, this is not feasible.
 
 In our recently accepted ECIR 2019 paper ([preprint](https://chauff.github.io/documents/publications/ECIR2019-rennings.pdf)):
+
 ```bibtex
 @inproceedings{ECIR2019Axiomatic,
   author    = {D. Rennings and F. Moraes and C. Hauff},
@@ -26,7 +27,7 @@ In our recently accepted ECIR 2019 paper ([preprint](https://chauff.github.io/do
 }
 ```
 
-we propose a pipeline to create large-scale **diagnostic datasets** for IR, each engineered to fulfill one axiom. We execute our pipeline on the recently released question answering dataset [WikiPassageQA](https://arxiv.org/abs/1805.03797) (which contains over 4000 topics) and create diagnostic datasets for four axioms. Each diagnostic dataset contains more than 10K *diagnostic instances*, i.e. instances that fulfil a particular axiom. 
+**which is the result of a Master thesis project**, we propose a pipeline to create large-scale **diagnostic datasets** for IR, each engineered to fulfill one axiom. We execute our pipeline on the recently released question answering dataset [WikiPassageQA](https://arxiv.org/abs/1805.03797) (which contains over 4000 topics) and create diagnostic datasets for four axioms. Each diagnostic dataset contains more than 10K *diagnostic instances*, i.e. instances that fulfil a particular axiom. 
 
 Importantly, as in actual datasets we are unlikely to encounter instances that fit the existing axioms exactly (e.g. for `TFC1` that would require finding pairs of documents that are exactly the same length and differ in their count of single-term query), we had to extend and relax the existing axioms to enable us to find diagnostic instances in existing datasets.
 
