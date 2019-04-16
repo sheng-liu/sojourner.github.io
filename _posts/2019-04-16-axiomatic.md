@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ECIR 2019
+title: ECIR 2019 Paper
 thumbnail: "/img/og_axiomatic.png"
 description: An Axiomatic Approach to Diagnosing Neural IR Models
 ---
@@ -11,7 +11,7 @@ One of the first axioms proposed is `TFC1`: *given a single-term query w and two
 
 The axiomatic approach to IR has shown that the effectiveness of a retrieval method is connected to its fulfillment of axioms. This approach enabled researchers to **identify shortcomings** in existing approaches and **fix** them. This requires a theoretical analysis of the retrieval formula, which in the case of BM25 and other classic retrieval models amounts to determining in what hyperparameter ranges certain axioms hold. 
 
-## Diagnostic Datasets in Neural IR
+### Diagnostic Datasets in Neural IR
 
 Ideally, we employ a similar axiomatic approach to diagnose and fix neural IR models in order to reap the benefits deep learning has offered in other fields. However, as these models may contain millions of parameters, this is not feasible.
 
@@ -30,7 +30,7 @@ we propose a pipeline to create large-scale **diagnostic datasets** for IR, each
 
 <img src="https://chauff.github.io/img/ecir2019-pipeline.png" width="800px">
 
-## Findings
+### Findings
 
 We empirically validate to what extent well-known deep IR models are able to realize the axiomatic pattern underlying the datasets. The table :point_down: contains the main results of our work.
 
@@ -38,6 +38,6 @@ We empirically validate to what extent well-known deep IR models are able to rea
 
 The first three result columns show the retrieval effectiveness of the various deep and non-deep approaches on the original WikiPassageQA dataset. BM25 and language modeling (QL) surprisingly well, the deep models struggle to outperform them. The *performance per axiom* columns contain the fraction of diagnostic instances that the models rank in the correct order (as dictated by the axiom). The classic retrieval models manage to produce correct rankings for most diagnostic instances, while the deep models lag behind. This is particularly apparent for axiom `LNC2`: it prescribes that over-penalizing long documents should be avoided; if a document is replicated k times, its retrieval status value should not be lower than that of its un-replicated variant.
 
-## What's next
+### What's next
 
 The obvious next step is to try to fix neural IR models so that they fulfil the diagnostic datasets to a better degree, either training data augmentation or the adaptation of their loss function. If that indeed also leads to higher retrieval effectiveness we can then go on with our work of diagnostic dataset creation and consider some more of the 20+ axioms proposed in the literature.
