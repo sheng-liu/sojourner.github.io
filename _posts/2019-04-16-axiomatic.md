@@ -1,7 +1,8 @@
 ---
 layout: post
-title: An Axiomatic Approach to Diagnosing Neural IR Models
+title: ECIR 2019
 thumbnail: "/img/og_axiomatic.png"
+description: An Axiomatic Approach to Diagnosing Neural IR Models
 ---
 
 Traditional retrieval models such as BM25 or language models have been engineered based on **search heuristics** that later have been formalized into so-called **axioms**.
