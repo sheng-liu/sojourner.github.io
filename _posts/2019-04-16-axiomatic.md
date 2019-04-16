@@ -17,7 +17,7 @@ Ideally, we employ a similar axiomatic approach to diagnose and fix neural IR mo
 In our recently accepted ECIR 2019 paper ([preprint](https://chauff.github.io/documents/publications/ECIR2019-rennings.pdf)):
 ```bibtex
 @inproceedings{ECIR2019Axiomatic,
-  author    = {Dani{\"{e}}l Rennings and Felipe Moraes and Claudia Hauff},
+  author    = {D. Rennings and F. Moraes and C. Hauff},
   title     = {An Axiomatic Approach to Diagnosing Neural {IR} Models},
   booktitle = {ECIR 2019},
   pages     = {489--503},
