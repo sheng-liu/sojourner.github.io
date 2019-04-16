@@ -35,7 +35,7 @@ We empirically validate to what extent well-known deep IR models are able to rea
 
 <img src="https://chauff.github.io/img/ecir2019-results.png" width="600px">
 
-The first three result columns show the retrieval effectiveness of the various deep and non-deep approaches on the original WikiPassageQA dataset. BM25 does surprisingly well, the deep models struggle to outperform it. The *performance per axiom* columns contain the fraction of diagnostic instances that the models rank in the correct order (as dictated by the axiom). The classic retrieval models manage to produce correct rankings for most diagnostic instances, while the deep models lag behind. This is particularly apparent for axiom `LNC2`: it prescribes that over-penalizing long documents should be avoided; if a document is replicated k times, its retrieval status value should not be lower than that of its un-replicated variant.
+The first three result columns show the retrieval effectiveness of the various deep and non-deep approaches on the original WikiPassageQA dataset. BM25 and language modeling (QL) surprisingly well, the deep models struggle to outperform them. The *performance per axiom* columns contain the fraction of diagnostic instances that the models rank in the correct order (as dictated by the axiom). The classic retrieval models manage to produce correct rankings for most diagnostic instances, while the deep models lag behind. This is particularly apparent for axiom `LNC2`: it prescribes that over-penalizing long documents should be avoided; if a document is replicated k times, its retrieval status value should not be lower than that of its un-replicated variant.
 
 ## What's next
 
