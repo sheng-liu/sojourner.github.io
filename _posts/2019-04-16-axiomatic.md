@@ -39,4 +39,4 @@ The first three result columns show the retrieval effectiveness of the various d
 
 ## What's next
 
-The obvious next step is to try to fix neural IR models, either training data augmentation or the adaptation of their loss function.
+The obvious next step is to try to fix neural IR models so that they fulfil the diagnostic datasets to a better degree, either training data augmentation or the adaptation of their loss function. If that indeed also leads to higher retrieval effectiveness we can then go on with our work of diagnostic dataset creation and consider some more of the 20+ axioms proposed in the literature.
