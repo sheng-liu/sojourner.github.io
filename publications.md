@@ -11,6 +11,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 Felipe Moraes, Kilian Grashoff and Claudia Hauff. *On the Impact of Group Size on Collaborative Search Effectiveness*, Information Retrieval Journal, 2019. [[PDF Preprint&#8594;]](../documents/publications/IRJ2019-Moraes.pdf) [[Blog post&#8594;]](https://chauff.github.io/2018-12-12-groupsize/) [[Springer journal&#8594;]](https://link.springer.com/article/10.1007/s10791-018-09350-9)
 
 <img src="../img/demo-paper.png" height="20px">
+<img src="../img/award.png" height="30px">
 Felipe Moraes and Claudia Hauff. *node-indri: moving the Indri toolkit to the modern Web stack*, ECIR, pp. 2:241-2:245, 2019.
 <span style="color:red">It received the "Best Demo Paper Award."</span>
 [[PDF Preprint&#8594;]](../documents/publications/ECIR2019-moraes.pdf) [[Springer journal&#8594;]](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_32)
