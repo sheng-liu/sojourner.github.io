@@ -8,63 +8,63 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2019 <img src="../img/award.png" height="30px">
 
 <img src="../img/journal-article.png" height="20px">
-Felipe Moraes, Kilian Grashoff and Claudia Hauff. *On the Impact of Group Size on Collaborative Search Effectiveness*, accepted at the Information Retrieval Journal. [[PDF Preprint&#8594;]](../documents/publications/IRJ2019-Moraes.pdf) [[Blog post&#8594;]](https://chauff.github.io/2018-12-12-groupsize/) [[Springer journal&#8594;]](https://link.springer.com/article/10.1007/s10791-018-09350-9)
+Felipe Moraes, Kilian Grashoff and Claudia Hauff. *On the Impact of Group Size on Collaborative Search Effectiveness*, Information Retrieval Journal, 2019. [[PDF Preprint&#8594;]](../documents/publications/IRJ2019-Moraes.pdf) [[Blog post&#8594;]](https://chauff.github.io/2018-12-12-groupsize/) [[Springer journal&#8594;]](https://link.springer.com/article/10.1007/s10791-018-09350-9)
 
 <img src="../img/demo-paper.png" height="20px">
-Felipe Moraes and Claudia Hauff. *node-indri: moving the Indri toolkit to the modern Web stack*, accepted at the [41st European Conference on Information Retrieval](http://ecir2019.org/). 
+Felipe Moraes and Claudia Hauff. *node-indri: moving the Indri toolkit to the modern Web stack*, ECIR, pp. 2:241-2:245, 2019.
 <span style="color:red">It received the "Best Demo Paper Award."</span>
 [[PDF Preprint&#8594;]](../documents/publications/ECIR2019-moraes.pdf) [[Springer journal&#8594;]](https://link.springer.com/chapter/10.1007/978-3-030-15719-7_32)
 
 
 <img src="../img/conference-paper.png" height="20px">
-Daniël Rennings, Felipe Moraes and Claudia Hauff. *An Axiomatic Approach to Diagnosing Neural IR Models*, accepted at the [41st European Conference on Information Retrieval](http://ecir2019.org/). [[PDF Preprint&#8594;]](../documents/publications/ECIR2019-rennings.pdf) [[Springer journal&#8594;]](https://link.springer.com/chapter/10.1007/978-3-030-15712-8_32)
+Daniël Rennings, Felipe Moraes and Claudia Hauff. *An Axiomatic Approach to Diagnosing Neural IR Models*, ECIR, pp. 1:489-1:503, 2019. [[PDF Preprint&#8594;]](../documents/publications/ECIR2019-rennings.pdf) [[Springer journal&#8594;]](https://link.springer.com/chapter/10.1007/978-3-030-15712-8_32)
 
 <img src="../img/conference-paper.png" height="20px">
-Dimitrios Bountouridis, Jaron Harambam, Mykola Makhortykh, Monica Marrero, Nava Tintarev and Claudia Hauff. *SIREN: A Simulation Framework for Understanding the Effects of Recommender Systems in Online News Environments*, accepted at the [2nd ACM Conference on Fairness, Accountability, and Transparency](https://fatconference.org/2019/index.html). [[PDF Preprint&#8594;]](../documents/publications/FAT2019-Bountouridis.pdf)
+Dimitrios Bountouridis, Jaron Harambam, Mykola Makhortykh, Monica Marrero, Nava Tintarev and Claudia Hauff. *SIREN: A Simulation Framework for Understanding the Effects of Recommender Systems in Online News Environments*, FAT, pp. 150-159, 2019. [[PDF Preprint&#8594;]](../documents/publications/FAT2019-Bountouridis.pdf)
 
 ## 2018
 
 <img src="../img/conference-paper.png" height="20px">
 Dan Davis, Claudia Hauff and Geert-Jan Houben. *Evaluating Crowdworkers as a Proxy for Online Learners in
-Video-Based Learning Contexts*, accepted at [CSCW 2018](http://cscw.acm.org/2018/). [[PDF Preprint&#8594;]](../documents/publications/CSCW2018-Davis.pdf)
+Video-Based Learning Contexts*, CSCW, pp. 42:1-42:16, 2018. [[PDF Preprint&#8594;]](../documents/publications/CSCW2018-Davis.pdf)
 
 <img src="../img/conference-paper.png" height="20px">
-Felipe Moraes, Sindunuraga Rikarno Putra and Claudia Hauff. *Contrasting search as a learning activity with instructor-designed learning*, accepted at [CIKM 2018](http://www.cikm2018.units.it/). [[PDF Preprint&#8594;]](../documents/publications/CIKM2018-Moraes.pdf)
+Felipe Moraes, Sindunuraga Rikarno Putra and Claudia Hauff. *Contrasting search as a learning activity with instructor-designed learning*, CIKM, pp. 167-176, 2018. [[PDF Preprint&#8594;]](../documents/publications/CIKM2018-Moraes.pdf)
 
 <img src="../img/workshop-paper.png" height="20px">
 James Allan, Jaime Arguello, Leif Azzopardi, Peter Bailey, Tim Baldwin, Krisztian Balog, Hannah Bast, Nick Belkin, Klaus Berberich, Bodo von Billerbeck, Jamie Callan, Rob Capra, Mark Carman, Ben Carterette, Charles L. A. Clarke, Kevyn Collins-Thompson, Nick Craswell, Bruce W. Croft, Shane J. Culpepper, Jeff Dalton, Gianluca Demartini, Fernado Diaz, Laura Dietz, Susan Dumais, Carsten Eickhoff, Nicola Ferro, Norbert Fuhr, Shlomo Geva, Claudia Hauff, David Hawking, Hideo Joho, Gareth Jones, Jaap Kamps, Noriko Kando, Diane Kelly, Jaewon Kim, Julia Kiseleva, Yiqun Liu, Xiaolu Lu, Stefano Mizzaro, Alistair Moffat, Jian-Yun Nie, Alexandra Olteanu, Iadh Ounis, Filip Radlinski, Maarten de Rijke, Mark Sanderson, Falk Scholer, Laurianne Sitbon, Mark Smucker, Ian Soboroff, Damiano Spina, Torsten Suel, James Thom, Paul Thomas, Andrew Trotman, Ellen Voorhees, Arjen P. de Vries, Emine Yilmaz, and Guido Zuccon. *Report from the Third Strategic Workshop on Information Retrieval in Lorne (SWIRL 2018)*. SIGIR Forum, 52:34–90, June 2018.  [[SIGIR Forum article]](http://sigir.org/wp-content/uploads/2018/07/p034.pdf)
 
 <img src="../img/workshop-paper.png" height="20px">
-Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Feature Engineering for Second Language Acquisition Modeling*. [13th Workshop on Innovative Use of NLP for Building Educational Applications](http://www.cs.rochester.edu/~tetreaul/naacl-bea13.html), co-located with NAACL HLT, 2018. [[PDF &#8594;]](http://aclweb.org/anthology/W18-0543)
+Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Feature Engineering for Second Language Acquisition Modeling*. BEA@NAACL-HLT, pp. 356-364, 2018. [[PDF &#8594;]](http://aclweb.org/anthology/W18-0543)
 
 <img src="../img/conference-paper.png" height="20px">
-Sindunuraga Rikarno Putra, Kilian Grashoff, Felipe Moraes and Claudia Hauff. *On the Development of a Collaborative Search System*, accepted at [DESIRES 2018](http://desires.dei.unipd.it/). [[PDF Preprint&#8594;]](../documents/publications/DESIRES2018-Putra.pdf)
+Sindunuraga Rikarno Putra, Kilian Grashoff, Felipe Moraes and Claudia Hauff. *On the Development of a Collaborative Search System*, DESIRES, pp. 76-82, 2018. [[PDF Preprint&#8594;]](../documents/publications/DESIRES2018-Putra.pdf)
 
 <img src="../img/workshop-paper.png" height="20px">
 Dimitrios Bountouridis, Mónica Marrero, Nava Tintarev and Claudia Hauff. 
-*Explaining Credibility in News Articles using Cross-Referencing*, accepted at the
-[2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/), co-located with SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/EARS2018-Bountouridis.pdf) [[Poster&#8594;]](https://docs.google.com/presentation/d/e/2PACX-1vSCso841MXJDbVdz9hClhvkwkMTUvIA6bDutZkzqWKHg-4fbsA5J34GvHofZjcr2X7MY2se-iLXi5Vq/pub?start=false&loop=false&delayms=3000)
+*Explaining Credibility in News Articles using Cross-Referencing*,
+[2018 Workshop on ExplainAble Recommendation and Search](https://ears2018.github.io/), co-located with ACM SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/EARS2018-Bountouridis.pdf) [[Poster&#8594;]](https://docs.google.com/presentation/d/e/2PACX-1vSCso841MXJDbVdz9hClhvkwkMTUvIA6bDutZkzqWKHg-4fbsA5J34GvHofZjcr2X7MY2se-iLXi5Vq/pub?start=false&loop=false&delayms=3000)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Yue Zhao, Tarmo Robal, Christoph Lofi, Claudia Hauff. *Can I have a Mooc2Go, please? On The Viability of Mobile vs. Stationary Learning*, accepted at [ECTEL 2018](http://www.ec-tel.eu/index.php?id=791). [[PDF Preprint&#8594;]](../documents/publications/ECTEL2018-Zhao.pdf)
+Yue Zhao, Tarmo Robal, Christoph Lofi, Claudia Hauff. *Can I have a Mooc2Go, please? On The Viability of Mobile vs. Stationary Learning*, EC-TEL, pp. 101-115, 2018. [[PDF Preprint&#8594;]](../documents/publications/ECTEL2018-Zhao.pdf)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Daniel Davis, Vasileios Triglianos, Claudia Hauff and Geert-Jan Houben. *SRLx: A Personalized Learner Interface for MOOCs*, accepted at [ECTEL 2018](http://www.ec-tel.eu/index.php?id=791). [[PDF Preprint&#8594;]](../documents/publications/ECTEL2018-Davis.pdf)
+Daniel Davis, Vasileios Triglianos, Claudia Hauff and Geert-Jan Houben. *SRLx: A Personalized Learner Interface for MOOCs*, EC-TEL, pp. 122-135, 2018. [[PDF Preprint&#8594;]](../documents/publications/ECTEL2018-Davis.pdf)
 
 <img src="../img/journal-article.png" height="20px">
-Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learning at Scale: A Review of Innovations in Online Learning Strategies*, [Computers & Education](https://www.journals.elsevier.com/computers-and-education/) journal, 2018. [[PDF Preprint&#8594;]](https://chauff.github.io/documents/publications/CE2018-Davis.pdf) [[ScienceDirect&#8594;]](https://doi.org/10.1016/j.compedu.2018.05.019)
+Dan Davis, Guanliang Chen, Claudia Hauff and Geert-Jan Houben. *Activating Learning at Scale: A Review of Innovations in Online Learning Strategies*, [Computers & Education](https://www.journals.elsevier.com/computers-and-education/), pp. 327-344, 2018. [[PDF Preprint&#8594;]](https://chauff.github.io/documents/publications/CE2018-Davis.pdf) [[ScienceDirect&#8594;]](https://doi.org/10.1016/j.compedu.2018.05.019)
 
 <img src="../img/demo-paper.png" height="20px">
-Sindunuraga Rikarno Putra, Felipe Moraes and Claudia Hauff. *SearchX: Empowering Collaborative Search Research*, accepted at SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/SIGIR2018-moraes.pdf) GitHub repositories: [[frontend&#8594;]](https://github.com/felipemoraes/searchx-frontend) and [[backend&#8594;]](https://github.com/felipemoraes/searchx-backend) 
+Sindunuraga Rikarno Putra, Felipe Moraes and Claudia Hauff. *SearchX: Empowering Collaborative Search Research*, ACM SIGIR, pp. 1265-1268, 2018. [[PDF Preprint&#8594;]](../documents/publications/SIGIR2018-moraes.pdf) GitHub repositories: [[frontend&#8594;]](https://github.com/felipemoraes/searchx-frontend) and [[backend&#8594;]](https://github.com/felipemoraes/searchx-backend) 
 
 <img src="../img/demo-paper.png" height="20px">
-Mónica Marrero and Claudia Hauff. *A/B Testing with APONE*, accepted at SIGIR 2018. [[PDF Preprint&#8594;]](../documents/publications/SIGIR2018-marrero.pdf) [[GitHub repository&#8594;]](https://marrerom.github.io/APONE/) [[Poster&#8594;]](https://docs.google.com/presentation/d/e/2PACX-1vRqavF6PNV66RgscN1xwGA21iHpHNVs6u2w-B9-UIfz7NLBZwRc765VtvgA4Ao0YjmDXFY71ctQiv5P/pub?start=false&loop=false&delayms=3000)
+Mónica Marrero and Claudia Hauff. *A/B Testing with APONE*, ACM SIGIR, pp. 1269-1272, 2018. [[PDF Preprint&#8594;]](../documents/publications/SIGIR2018-marrero.pdf) [[GitHub repository&#8594;]](https://marrerom.github.io/APONE/) [[Poster&#8594;]](https://docs.google.com/presentation/d/e/2PACX-1vRqavF6PNV66RgscN1xwGA21iHpHNVs6u2w-B9-UIfz7NLBZwRc765VtvgA4Ao0YjmDXFY71ctQiv5P/pub?start=false&loop=false&delayms=3000)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *IntelliEye: Enhancing MOOC Learners' Video Watching Experience with Real-Time Attention Tracking*, accepted at [ACM Hypertext](https://ht.acm.org/ht2018/), 2018. [[PDF Preprint&#8594;]](../documents/publications/HYPERTEXT2018-zhao.pdf) [[GitHub repository&#8594;]](https://github.com/Yue-ZHAO/IntelliEye)
+Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *IntelliEye: Enhancing MOOC Learners' Video Watching Experience with Real-Time Attention Tracking*, ACM HyperText, pp. 106-114, 2018. [[PDF Preprint&#8594;]](../documents/publications/HYPERTEXT2018-zhao.pdf) [[GitHub repository&#8594;]](https://github.com/Yue-ZHAO/IntelliEye)
 
 <img src="../img/conference-paper.png" height="20px"> 
-Guanliang Chen, Jie Yang, Claudia Hauff and Geert-Jan Houben. *A Large-scale Dataset for Educational Question Generation*, accepted at [ICWSM](http://www.icwsm.org/2018/index.php), 2018. [[Dataset and preprint on GitHub&#8594;]](https://github.com/AngusGLChen/LearningQ) 
+Guanliang Chen, Jie Yang, Claudia Hauff and Geert-Jan Houben. *A Large-scale Dataset for Educational Question Generation*, ICWSM, pp. 481-490, 2018. [[Dataset and preprint on GitHub&#8594;]](https://github.com/AngusGLChen/LearningQ) 
 
 <img src="../img/conference-paper.png" height="20px"> 
 Tarmo Robal, Yue Zhao, Christoph Lofi and Claudia Hauff. *Webcam-based attention tracking in Online Learning: A Feasibility Study*, IUI, pp. 189-197, 2018. [[PDF Preprint&#8594;]](../documents/publications/iui2018-robal.pdf)
