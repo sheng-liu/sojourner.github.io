@@ -33,6 +33,8 @@ Importantly, as in actual datasets we are unlikely to encounter instances that f
 
 <img src="https://chauff.github.io/img/ecir2019-pipeline.png" width="800px">
 
+Once a diagnostic dataset is created, it can be employed on any neural IR model, it is thus a way to diagnose models in a **model-agnostic manner**. All we consider is *how* each trained model ranks the provided document instances. This in turn tells us to what extent a model has learnt the type of knowledge encoded in an axiom. As diagnostic datasets do *not* require relevance judgments, they can be extracted from almost any given set of queries and document corpus.
+
 ### Findings
 
 We empirically validate to what extent well-known deep IR models are able to realize the axiomatic pattern underlying the datasets. The table :point_down: contains the main results of our work.
