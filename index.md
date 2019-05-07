@@ -74,9 +74,9 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Gustavo Penha (PhD student, since 11/2018)
 - [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing)
 - [Dimitrios Bountouridis](http://www.wis.ewi.tudelft.nl/bountouridis/) (Postdoc, ongoing)
-- [Dan Davis](https://dan7davis.github.io/) (PhD student, completion in 05/2019)
 
 ## Past members of my lab
+- PhD student [Dan Davis](https://dan7davis.github.io/) graduated in 2019 on the topic of [Large-Scale Learning Analytics: Modeling Learner Behavior & Improving Learning Outcomes in Massive Open Online Courses](https://doi.org/10.4233/uuid:b8be8302-84a0-4b29-a6fe-761a3f872420)
 - PhD student [Guanliang Chen](https://angusglchen.github.io/) graduated in 2019 on the topic of [MOOC Analytics: Learner Modeling and Content Generation](https://doi.org/10.4233/uuid:dd213d9b-e621-442d-8d11-4cd8b6e19635)
 - PhD student [Yue Zhao](http://www.wis.ewi.tudelft.nl/zhao/) graduated in 2019 on the topic of [Learning Analytics Technology to Understand Learner Behavioral Engagement in MOOCs](http://resolver.tudelft.nl/uuid:2aff1a7e-45eb-4d10-9944-8e06ef12b9fa)
 - Research engineer Mónica Marrero (2017-18)
