@@ -36,7 +36,7 @@ subtitle: Web Information Systems, TU Delft
 
 ## My career
 
-For a brief and compact overview, take a look at my 1-page [CV](../documents/Hauff-shortCV.pdf). 
+For a brief and compact overview, take a look at my 1-page [CV](../documents/Hauff_shortCV.pdf). 
 
 I have been working as staff member (first as Assistant Professor and since 2018 as Associate Professor) at the [Web Information Systems group](http://www.wis.ewi.tudelft.nl/),
  [Delft University of Technology](http://www.tudelft.nl/) since 2013. Between 2011 and 2012 I was a Postdoc in the same group.
