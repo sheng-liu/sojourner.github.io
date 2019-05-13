@@ -76,6 +76,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Gustavo Penha (PhD student, since 11/2018)
 - [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing)
 - [Dimitrios Bountouridis](http://www.wis.ewi.tudelft.nl/bountouridis/) (Postdoc, ongoing)
+- Manuel Valle Torre (Delft Data Science research engineer, ongoing)
 
 ## Past members of my lab
 - PhD student [Dan Davis](https://dan7davis.github.io/) graduated in 2019 on the topic of [Large-Scale Learning Analytics: Modeling Learner Behavior & Improving Learning Outcomes in Massive Open Online Courses](https://doi.org/10.4233/uuid:b8be8302-84a0-4b29-a6fe-761a3f872420)
@@ -89,6 +90,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - [SearchX](https://github.com/felipemoraes/searchx) is a scalable collaborative search system, developed to research large-scale search and sensemaking experiments. Lead developer is Felipe Moraes.
 - [APONE](https://marrerom.github.io/APONE/) is an academic environment for online experiments, that we have used in our research and teaching. Lead developer is Mónica Marrero.
 - [SIREN](https://github.com/dbountouridis/siren) is a simulation framework for understanding the effects of recommender systems in online news environments. Lead developer is Dimitrios Bountouridis.
+- [ELAT](https://mvallet91.github.io/ELAT/) is a browser-based edX logfile analysis tool that turns edX logfiles into an easy to query database, all within the confines of the local browser. The lead developer is Manuel Valle Torre.
 
 ## Grants
 - NWO Aspasia grant (**100,000€**) as a top-up of my NWO VIDI (50K for my research, 50K for diversity measures in the faculty), September 2018.
