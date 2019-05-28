@@ -5,7 +5,10 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html). 
 
-## 2019 <img src="../img/award.png" height="30px">
+## 2019 
+
+<img src="../img/conference-short-paper.png" height="20px"> 
+Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai and Ze Zhong Wu. *The SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)* (workshop overview paper), SIGIR 2019.
 
 <img src="../img/journal-article.png" height="20px">
 Felipe Moraes, Kilian Grashoff and Claudia Hauff. *On the Impact of Group Size on Collaborative Search Effectiveness*, Information Retrieval Journal, 2019. [[PDF Preprint&#8594;]](../documents/publications/IRJ2019-Moraes.pdf) [[Blog post&#8594;]](https://chauff.github.io/2018-12-12-groupsize/) [[Springer journal&#8594;]](https://link.springer.com/article/10.1007/s10791-018-09350-9)
