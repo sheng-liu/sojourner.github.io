@@ -5,6 +5,10 @@ thumbnail: "/img/og-axiomatic.png"
 description: An Axiomatic Approach to Diagnosing Neural IR Models
 ---
 
+Update: a [slide deck](https://docs.google.com/presentation/d/e/2PACX-1vQPIJ-ymT8Ff-nvBZMb2O8-i_rSp2FObDab891tLpGPueQCJh2ReWI-I72hhLpivT1ZPfbKf3YVXDDo/pub?start=false&loop=false&delayms=3000) is now available as well - a presentation about IR in general and the axiomatic approach to neural IR models, given to MSc students as part of the Delft Deep Learning Colloqium 2019.
+
+### Introduction
+
 Traditional retrieval models such as BM25 or language models have been engineered based on **search heuristics** that later have been formalized into so-called **axioms**.
 
 One of the first axioms proposed is `TFC1`: *given a single-term query w and two equally long documents, the retrieval score of the document with a higher frequency of w should be ranked higher*. 
