@@ -1,5 +1,12 @@
 # Notes on MSc theses at Lambda-Lab
 
+## Setup
+
+- Create an Overleaf project, use *MSc-thesis-full-name* as project title and invite me to it.
+- Use GitHub to keep track of your project and add me to your project.
+- Every chapter gets at most two rounds of comments.
+
+
 ## Links
 
 - [How to come up with research questions](http://pgbovine.net/research-design-patterns.htm)!
