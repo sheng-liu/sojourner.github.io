@@ -3,8 +3,10 @@
 ## Setup
 
 - Create an Overleaf project, use *MSc-thesis-full-name* as project title and invite me to it.
+  - Every chapter gets two rounds of comments.
 - Use GitHub to keep track of your project and add me to your project.
-- Every chapter gets at most two rounds of comments.
+  - Add a `README.md` where you keep track of the meetings we had and what we discussed (action points to take).
+  - Add a folder `papers` where you keep track of all the papers you read for your thesis.
 
 
 ## Links
