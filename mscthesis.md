@@ -7,6 +7,7 @@
 - Use GitHub to keep track of your project and add me to your project.
   - Add a `README.md` where you keep track of the meetings we had and what we discussed (action points to take).
   - Add a folder `papers` where you keep track of all the papers you read for your thesis.
+  - Make sure to submit the two required forms on time (one to form the thesis committee and one to fix the defense date).
 
 
 ## Links
