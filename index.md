@@ -110,7 +110,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Search track co-chair at WebConf 2020
 - Co-organizer of the SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)
 - Invited participant at the [Conversational Search Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461) (November 2019)
-- Lecturer at ESSIR (July 2019)
+- Lecturer ([slides](http://www.ir.disco.unimib.it/essir2019)) at ESSIR (July 2019)
 - Invited talk ([slides](https://docs.google.com/presentation/d/e/2PACX-1vQPIJ-ymT8Ff-nvBZMb2O8-i_rSp2FObDab891tLpGPueQCJh2ReWI-I72hhLpivT1ZPfbKf3YVXDDo/pub?start=false&loop=false&delayms=3000)) at the [Delft Deep Learning Colloqium](http://jvgemert.github.io/DDLC19/) (June 2019)
 - Invited participant at the CIFAR workshop *AI-Powered Information Ecosystems and Democracy* (June 2019)
 - Invited talk at the *Search Engines Amsterdam* [meetup](https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/qvfxgpyzgbjc/) (April 2019)
