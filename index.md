@@ -5,6 +5,7 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
+- [ESSIR 2019 lecture](https://docs.google.com/presentation/d/1rwUXPNo0cXc6D_w00vdrY07e25DiMgKTGtRPqzfCaWQ/edit?usp=sharing)
 - Freshly elected member of the ACM SIGIR executive committee, my three-year term starts July 1, 2019!
 - [My talk (June 12, 2019)](https://docs.google.com/presentation/d/e/2PACX-1vQPIJ-ymT8Ff-nvBZMb2O8-i_rSp2FObDab891tLpGPueQCJh2ReWI-I72hhLpivT1ZPfbKf3YVXDDo/pub?start=false&loop=false&delayms=3000) at the [Delft Deep Learning Colloqium](http://jvgemert.github.io/DDLC19/)
 - [SEA meetup slides (April 26, 2019)](https://docs.google.com/presentation/d/e/2PACX-1vQjhxNAE4g4Zcx_ArpphcVCGKOe2N4GE-QQ6CEMxcNLu--hZtO-MF6rvouVxO3KAViHtQzTZIvUOhzf/pub?start=false&loop=false&delayms=3000)
