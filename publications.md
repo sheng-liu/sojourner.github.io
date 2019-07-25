@@ -7,6 +7,14 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2019 
 
+<img src="../img/workshop-paper.png" height="20px">
+Dan Davis, Guanliang Chen, Ioana Jivet, Claudia Hauff and Geert-Jan Houben, 
+*Encouraging Metacognition & Self-Regulation in MOOCs through Increased Learner Feedback*, 
+[Workshop on
+Reducing Online Misinformation Exposure](https://rome2019.github.io/) (
+co-located with SIGIR 2019.
+[[PDF Preprint&#8594;]](https://rome2019.github.io/papers/Bountouridis_etal_ROME2019.pdf)
+
 <img src="../img/conference-short-paper.png" height="20px"> 
 Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai and Ze Zhong Wu. *The SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)* (workshop overview paper), SIGIR 2019.
 
