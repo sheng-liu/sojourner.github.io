@@ -8,8 +8,8 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2019 
 
 <img src="../img/workshop-paper.png" height="20px">
-Dan Davis, Guanliang Chen, Ioana Jivet, Claudia Hauff and Geert-Jan Houben, 
-*Encouraging Metacognition & Self-Regulation in MOOCs through Increased Learner Feedback*, 
+Dimitrios Bountouridis, Mykola Makhortykh, Emily Sullivan, Jaron Harambam, Nava Tintarev and Claudia Hauff, 
+*Annotating Credibility: Identifying and Mitigating Bias in Credibility Datasets*, 
 [Workshop on
 Reducing Online Misinformation Exposure](https://rome2019.github.io/) (
 co-located with SIGIR 2019.
