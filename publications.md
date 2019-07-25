@@ -13,10 +13,10 @@ Dimitrios Bountouridis, Mykola Makhortykh, Emily Sullivan, Jaron Harambam, Nava 
 [Workshop on
 Reducing Online Misinformation Exposure](https://rome2019.github.io/) (
 co-located with SIGIR 2019.
-[[PDF Preprint&#8594;]](https://rome2019.github.io/papers/Bountouridis_etal_ROME2019.pdf)
+[[PDF&#8594;]](https://rome2019.github.io/papers/Bountouridis_etal_ROME2019.pdf)
 
 <img src="../img/conference-short-paper.png" height="20px"> 
-Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai and Ze Zhong Wu. *The SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)* (workshop overview paper), SIGIR 2019.
+Ryan Clancy, Nicola Ferro, Claudia Hauff, Jimmy Lin, Tetsuya Sakai and Ze Zhong Wu. *The SIGIR 2019 Open-Source IR Replicability Challenge ([OSIRRC 2019](https://osirrc.github.io/osirrc2019/))* (workshop overview paper), SIGIR, pp. 1432-1434, 2019. [[PDF&#8594;]](http://ceur-ws.org/Vol-2409/invited01.pdf)
 
 <img src="../img/journal-article.png" height="20px">
 Felipe Moraes, Kilian Grashoff and Claudia Hauff. *On the Impact of Group Size on Collaborative Search Effectiveness*, Information Retrieval Journal, 2019. [[PDF Preprint&#8594;]](../documents/publications/IRJ2019-Moraes.pdf) [[Blog post&#8594;]](https://chauff.github.io/2018-12-12-groupsize/) [[Springer journal&#8594;]](https://link.springer.com/article/10.1007/s10791-018-09350-9)
