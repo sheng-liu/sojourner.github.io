@@ -11,7 +11,7 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 Dimitrios Bountouridis, Mykola Makhortykh, Emily Sullivan, Jaron Harambam, Nava Tintarev and Claudia Hauff, 
 *Annotating Credibility: Identifying and Mitigating Bias in Credibility Datasets*, 
 [Workshop on
-Reducing Online Misinformation Exposure](https://rome2019.github.io/) (
+Reducing Online Misinformation Exposure](https://rome2019.github.io/),
 co-located with SIGIR 2019.
 [[PDF&#8594;]](https://rome2019.github.io/papers/Bountouridis_etal_ROME2019.pdf)
 
