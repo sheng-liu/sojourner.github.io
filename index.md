@@ -105,8 +105,9 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## Organizational duties and activities
-- ACM SIGIR Executive Committee member (2019-2022)
 - Lecturer at the SIKS course *Advances in Information Retrieval* (October 2019)
+- Invited talk at the [ICAI AIRLab meetup in Utrecht](https://www.meetup.com/Innovation-Center-for-Artificial-Intelligence/events/264214116) (September 2019)
+- ACM SIGIR Executive Committee member (2019-2022)
 - Search track co-chair at WebConf 2020
 - Co-organizer of the SIGIR 2019 Open-Source IR Replicability Challenge (OSIRRC 2019)
 - Invited participant at the [Conversational Search Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=19461) (November 2019)
