@@ -5,17 +5,22 @@ title: Teaching
 
 ## MSc thesis supervision
 
-I am supervising students who conduct research in *information retrieval* and *learning analytics* (basically data science applied to the learning domain). For in information retrieval, ongoing benchmark competitions give you a good idea of hot-topic tasks and research directions: 
+I am supervising students who conduct research in *information retrieval*, *natural language processing* and *learning analytics* (basically data science applied to the learning domain). For in information retrieval, ongoing benchmark competitions give you a good idea of hot-topic tasks and research directions: 
 
-- [MediaEval](http://www.multimediaeval.org/mediaeval2017/)
-- [SemEval](http://alt.qcri.org/semeval2017/)
-- [CLEF](http://clef2017.clef-initiative.eu/index.php?page=Pages/labs_info.php)
+- [MediaEval 2019](http://www.multimediaeval.org/mediaeval2019/)
+- [SemEval 2019](http://alt.qcri.org/semeval2019/)
+- [CLEF 2019](http://clef2019.clef-initiative.eu/index.php?page=Pages/labs_info.html)
 - [TREC](http://trec.nist.gov/)
-- [NTCIR](http://research.nii.ac.jp/ntcir/index-en.html)
 
-If you are interested in learning analytics, have a look at the proceedings of the [first](http://dl.acm.org/citation.cfm?id=2556325) and [second edition](http://dl.acm.org/citation.cfm?id=2724660) 
-of the ACM Learning At Scale conference - they contain many interesting contributions in the area of massive open online learning.
- 
+Natural language processing has a lot of public benchmarks too, though they are typically not organized within a particular conference/workshop series. The [nlpprogress.com](http://nlpprogress.com/english/question_answering.html) website contains a good overview of tasks/datasets and current state-of-the-art. IR and NLP are not completely separate fields and naturally some of the NLP tasks are more relevant for IR than others. The following tasks are relevant to IR (the links lead to the particular section on the nlpprogress website):
+
+- [question answering](http://nlpprogress.com/english/question_answering.html)
+- [multi-task learning](http://nlpprogress.com/english/multi-task_learning.html)
+- [named entity recognition](http://nlpprogress.com/english/named_entity_recognition.html)
+- [summarization](http://nlpprogress.com/english/summarization.html)
+
+If you are interested in learning analytics, have a look at the proceedings of different editions of the Learning At Scale conference ([2014](http://dl.acm.org/citation.cfm?id=2556325), [2015](http://dl.acm.org/citation.cfm?id=2724660), [2016](https://dl.acm.org/citation.cfm?id=2876034), [2017](https://dl.acm.org/citation.cfm?id=3051457), [2018](https://dl.acm.org/citation.cfm?id=3231644), [2019](https://dl.acm.org/citation.cfm?id=3330430)). I am particularly interested in approaches that require the implementation of tooling that is hypothesized to aid learning (either in a MOOC or in the classroom), which is then deployed in either a crowdsourcing study or an actual class.
+
 ## Courses
  
  Below are the resources I have developed for my courses (some are more up-to-date than others): 
