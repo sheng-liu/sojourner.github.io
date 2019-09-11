@@ -5,7 +5,7 @@ title: Teaching
 
 ## MSc thesis supervision
 
-I am supervising students who conduct research in *information retrieval*, *natural language processing* and *learning analytics* (basically data science applied to the learning domain). For in information retrieval, ongoing benchmark competitions give you a good idea of hot-topic tasks and research directions: 
+I am supervising students who conduct research in *information retrieval*, *natural language processing* and *learning analytics* (basically data science applied to the learning domain). For information retrieval, ongoing benchmark competitions give you a good idea of hot-topic tasks and research directions: 
 
 - [MediaEval 2019](http://www.multimediaeval.org/mediaeval2019/)
 - [SemEval 2019](http://alt.qcri.org/semeval2019/)
