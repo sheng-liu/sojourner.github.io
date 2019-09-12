@@ -77,7 +77,6 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Arthur Barbosa Câmara (PhD student, since 11/2018)
 - Gustavo Penha (PhD student, since 11/2018)
 - [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing)
-- [Dimitrios Bountouridis](http://www.wis.ewi.tudelft.nl/bountouridis/) (Postdoc, ongoing)
 - Manuel Valle Torre (Delft Data Science research engineer, ongoing)
 - Nirmal Roy (PhD student, since 09/2019)
 - Huiyuan Lai (Phd student, since 09/2010)
@@ -88,6 +87,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - PhD student [Yue Zhao](http://www.wis.ewi.tudelft.nl/zhao/) graduated in 2019 on the topic of [Learning Analytics Technology to Understand Learner Behavioral Engagement in MOOCs](http://resolver.tudelft.nl/uuid:2aff1a7e-45eb-4d10-9944-8e06ef12b9fa)
 - Research engineer Mónica Marrero (2017-18)
 - PhD student [Ke Tao](https://scholar.google.com/citations?user=KkPTloIAAAAJ&hl=en) graduated in 2014 on the topic of [Social Web Data Analytics: Relevance, Redundancy, Diversity](https://doi.org/10.4233/uuid:1af94380-1414-4497-bfc6-a67b213de050)
+- Postdoc Dimitrios Bountouridis worked on fairness in the news recommender domain (2018-19)
+
 
 ## Lab software
 
