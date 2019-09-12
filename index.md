@@ -79,6 +79,8 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing)
 - [Dimitrios Bountouridis](http://www.wis.ewi.tudelft.nl/bountouridis/) (Postdoc, ongoing)
 - Manuel Valle Torre (Delft Data Science research engineer, ongoing)
+- Nirmal Roy (PhD student, since 09/2019)
+- Huiyuan Lai (Phd student, since 09/2010)
 
 ## Past members of my lab
 - PhD student [Dan Davis](https://dan7davis.github.io/) graduated in 2019 on the topic of [Large-Scale Learning Analytics: Modeling Learner Behavior & Improving Learning Outcomes in Massive Open Online Courses](https://doi.org/10.4233/uuid:b8be8302-84a0-4b29-a6fe-761a3f872420)
