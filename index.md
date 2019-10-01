@@ -95,7 +95,6 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - [SearchX](https://github.com/felipemoraes/searchx) is a scalable collaborative search system, developed to research large-scale search and sensemaking experiments. Lead developer is Felipe Moraes.
 - [APONE](https://marrerom.github.io/APONE/) is an academic environment for online experiments, that we have used in our research and teaching. Lead developer is Mónica Marrero.
 - [SIREN](https://github.com/dbountouridis/siren) is a simulation framework for understanding the effects of recommender systems in online news environments. Lead developer is Dimitrios Bountouridis.
-- [ELAT](https://mvallet91.github.io/ELAT/) is a browser-based edX logfile analysis tool that turns edX logfiles into an easy to query database, all within the confines of the local browser. The lead developer is Manuel Valle Torre.
 
 ## Grants
 - NWO Aspasia grant (**100,000€**) as a top-up of my NWO VIDI (50K for my research, 50K for diversity measures in the faculty), September 2018.
