@@ -107,6 +107,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - TU Delft Blended Education tender (**10,000€**, 1 co-PI) to improve teaching in the Bachelor, September 2014
 
 ## Organizational duties and activities
+- Invited speaker at the Glasgow IR Seminar (December 2019)
 - Lecturer at the SIKS course *Advances in Information Retrieval* (October 2019)
 - Invited talk ([slides](https://docs.google.com/presentation/d/1K9uo5J8BSCwskOMG2LGA-b4w_4QhKUzeI9vD545obrc/edit?usp=sharing)) at the [ICAI AIRLab meetup in Utrecht](https://docs.google.com/presentation/d/e/2PACX-1vRsb_bqqqDhfRmc_hbpDivzIVSHWF0YHAnFwjsfXQJq7kw7lYqryhMaZPtXbONgDv8b6vS_4QHtvdTF/pub?start=false&loop=false&delayms=3000#slide=id.p) (September 2019)
 - ACM SIGIR Executive Committee member (2019-2022)
