@@ -74,12 +74,13 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Current members of my lab
-- Arthur Barbosa Câmara (PhD student, since 11/2018)
-- Gustavo Penha (PhD student, since 11/2018)
 - [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing)
 - Manuel Valle Torre (Delft Data Science research engineer, ongoing)
+- Arthur Barbosa Câmara (PhD student, since 11/2018)
+- Gustavo Penha (PhD student, since 11/2018)
 - Nirmal Roy (PhD student, since 09/2019)
 - Huiyuan Lai (Phd student, since 09/2019)
+- Sara Salimzadeh (Phd student, since 11/2019)
 
 ## Past members of my lab
 - PhD student [Dan Davis](https://dan7davis.github.io/) graduated in 2019 on the topic of [Large-Scale Learning Analytics: Modeling Learner Behavior & Improving Learning Outcomes in Massive Open Online Courses](https://doi.org/10.4233/uuid:b8be8302-84a0-4b29-a6fe-761a3f872420)
