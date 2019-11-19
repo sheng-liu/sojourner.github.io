@@ -8,6 +8,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2019 
 
 <img src="../img/workshop-paper.png" height="20px">
+Adam Roegiest, Aldo Lipani, Alex Beutel, Alexandra Olteanu, Ana Lucic, Ana-Andreea Stoica, Anubrata Das, Asia Biega, Bart Voorn, Claudia Hauff, Damiano Spina, David Lewis, Douglas W. Oard, Emine Yilmaz, Faegheh Hasibi, Gabriella Kazai, Graham McDonald, Hinda Haned, Iadh Ounis, Ilse van der Linden, Jean Garcia-Gathright, Joris Baan, Kamuela N. Lau, Krisztian Balog,  Maarten de Rijke, Mahmoud Sayed, Maria Panteli, Mark Sanderson, Matthew Lease, Michael D. Ekstrand, Preethi Lahoti and Toshihiro Kamishima, *FACTS-IR: Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval*. SIGIR Forum, Vol. 53, No. 2, 2019. [[SIGIR Forum article]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/roegiest-2019-facts-ir.pdf)
+
+<img src="../img/workshop-paper.png" height="20px">
 Dimitrios Bountouridis, Mykola Makhortykh, Emily Sullivan, Jaron Harambam, Nava Tintarev and Claudia Hauff, 
 *Annotating Credibility: Identifying and Mitigating Bias in Credibility Datasets*, 
 [Workshop on
