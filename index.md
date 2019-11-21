@@ -59,7 +59,7 @@ In 2018, I gave an invited keynote at the French IR conference [CORIA 2018](http
 
 We do our best in my lab to keep our *one-slide-per-paper* presentation updated. With three PhD students in 2019 finishing on the topic of learning analytics, you will find a lot of learning papers in there. We are now shifting gears, back to more NLP/IR:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4kV6uojsYwbTMxhzTGP5k_9wNV2kZtR6OHGm0bT-ayrUnoNFiV-kK_vBtfJdSrsHQfMlmWelrJQ-p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4kV6uojsYwbTMxhzTGP5k_9wNV2kZtR6OHGm0bT-ayrUnoNFiV-kK_vBtfJdSrsHQfMlmWelrJQ-p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Contact
 
