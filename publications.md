@@ -5,6 +5,12 @@ title: Publications
 
 I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html). 
 
+## 2020
+
+<img src="../img/conference-paper.png" height="20px">
+Manuel Valle Torre, Esther Tan and Claudia Hauff. *edX Log Data Analysis Made Easy
+*, accepted at the 10th International Conference on Learning Analytics and Knowledge (LAK20). [[PDF Preprint&#8594;]](../documents/publications/LAK2020-Torre.pdf)
+
 ## 2019 
 
 <img src="../img/workshop-paper.png" height="20px">
