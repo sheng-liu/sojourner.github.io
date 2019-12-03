@@ -94,6 +94,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 
 ## Lab software
 
+- [ELAT](https://mvallet91.github.io/ELAT/): EdX Logfile Analysis Tool that is browser-based, and a fully local processing tool. No server needed, no programming knowledge needed, no setup costs. Lead developer is Manuel Valle Torre. 
 - [SearchX](https://github.com/felipemoraes/searchx) is a scalable collaborative search system, developed to research large-scale search and sensemaking experiments. Lead developer is Felipe Moraes.
 - [APONE](https://marrerom.github.io/APONE/) is an academic environment for online experiments, that we have used in our research and teaching. Lead developer is Mónica Marrero.
 - [SIREN](https://github.com/dbountouridis/siren) is a simulation framework for understanding the effects of recommender systems in online news environments. Lead developer is Dimitrios Bountouridis.
