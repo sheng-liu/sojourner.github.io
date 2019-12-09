@@ -8,6 +8,12 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 ## 2020
 
 <img src="../img/conference-paper.png" height="20px">
+Gustavo Penha and Claudia Hauff. *Curriculum Learning Strategies for IR: An Empirical Study on Conversation Response Ranking*, accepted at ECIR 2020.
+
+<img src="../img/conference-paper.png" height="20px">
+Arthur Câmara and Claudia Hauff. *Diagnosing BERT with Retrieval Heuristics*, accepted at ECIR 2020.
+
+<img src="../img/conference-paper.png" height="20px">
 Manuel Valle Torre, Esther Tan and Claudia Hauff. *edX Log Data Analysis Made Easy*, accepted at the 10th International Conference on Learning Analytics and Knowledge (LAK20). [[PDF Preprint&#8594;]](../documents/publications/LAK2020-Torre.pdf) [[ELAT demo&#8594;]](https://mvallet91.github.io/ELAT-Workbench/)
 
 ## 2019 
