@@ -7,6 +7,9 @@ I can also be found on [Google Scholar](http://scholar.google.com/citations?user
 
 ## 2020
 
+<img src="../img/conference-short-paper.png" height="20px"> 
+Nirmal Roy, Felipe Moraes and Claudia Hauff. *Exploring Users' Learning Gains within Search Sessions*, accepted at CHIIR 2020.
+
 <img src="../img/conference-paper.png" height="20px">
 Gustavo Penha and Claudia Hauff. *Curriculum Learning Strategies for IR: An Empirical Study on Conversation Response Ranking*, accepted at ECIR 2020.
 
