@@ -21,6 +21,8 @@ Manuel Valle Torre, Esther Tan and Claudia Hauff. *edX Log Data Analysis Made Ea
 
 ## 2019 
 
+Gustavo Penha, Alexandru Balan and Claudia Hauff, *Introducing MANtIS: a novel Multi-Domain Information Seeking Dialogues Dataset*, 2019. [arXiv preprint](https://arxiv.org/abs/1912.04639)
+
 <img src="../img/workshop-paper.png" height="20px">
 Adam Roegiest, Aldo Lipani, Alex Beutel, Alexandra Olteanu, Ana Lucic, Ana-Andreea Stoica, Anubrata Das, Asia Biega, Bart Voorn, Claudia Hauff, Damiano Spina, David Lewis, Douglas W. Oard, Emine Yilmaz, Faegheh Hasibi, Gabriella Kazai, Graham McDonald, Hinda Haned, Iadh Ounis, Ilse van der Linden, Jean Garcia-Gathright, Joris Baan, Kamuela N. Lau, Krisztian Balog,  Maarten de Rijke, Mahmoud Sayed, Maria Panteli, Mark Sanderson, Matthew Lease, Michael D. Ekstrand, Preethi Lahoti and Toshihiro Kamishima, *FACTS-IR: Fairness, Accountability, Confidentiality, Transparency, and Safety in Information Retrieval*. SIGIR Forum, Vol. 53, No. 2, 2019. [[SIGIR Forum article]](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/roegiest-2019-facts-ir.pdf)
 
