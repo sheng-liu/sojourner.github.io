@@ -5,19 +5,15 @@ title: Teaching
 
 ## MSc thesis supervision
 
-I am supervising students who conduct research in *information retrieval* and *natural language processing*. For information retrieval, ongoing benchmark competitions give you a good idea of hot-topic tasks and research directions: 
+I am supervising students who conduct research in *information retrieval* and *natural language processing*. For both research directions, taking a look at papers at recent conferences (such as SIGIR, CIKM, WSDM, EMNLP, ACL) and ongoing benchmark efforts (MSMarco, SQUAD 2.0, GLUE, decaNLP, TREC) will help to figure out a topic of interest.
 
-- [MediaEval 2019](http://www.multimediaeval.org/mediaeval2019/)
-- [SemEval 2019](http://alt.qcri.org/semeval2019/)
-- [CLEF 2019](http://clef2019.clef-initiative.eu/index.php?page=Pages/labs_info.html)
-- [TREC](http://trec.nist.gov/)
-
-Natural language processing has a lot of public benchmarks too, though they are typically not organized within a particular conference/workshop series. The [nlpprogress.com](http://nlpprogress.com/english/question_answering.html) website contains a good overview of tasks/datasets and current state-of-the-art. IR and NLP are not completely separate fields and naturally some of the NLP tasks are more relevant for IR than others. The following tasks are relevant to IR (the links lead to the particular section on the nlpprogress website):
-
-- [question answering](http://nlpprogress.com/english/question_answering.html)
-- [multi-task learning](http://nlpprogress.com/english/multi-task_learning.html)
-- [named entity recognition](http://nlpprogress.com/english/named_entity_recognition.html)
-- [summarization](http://nlpprogress.com/english/summarization.html)
+I also have a set of topics that I am ready to give away:
+- Evaluate the usability of [Macaw](https://arxiv.org/pdf/1912.08904.pdf), a recently inroduced Conversational Information Seeking Platform, possibly extend it and run an interactive IR study with it.
+- Extend [SearchX](https://github.com/felipemoraes/searchx), a collaborative search engine we built in-house, with shared workspace capabilities and run an interactive IR study with it.
+- Analyze the effectiveness of multi-task learning for different IR tasks.
+- Evaluate the use of efficient context-sensitive embedding approaches (variations of BERT & Co that do not rely on hundreds of millions of parameters) for different IR tasks and under performance constraints.
+- Design, build and evaluate an extension to Visual Studio Code that enables information seeking for programming tasks directly in the IDE.
+- Investigate UI elements that make collaborative search in the mobile setting (where screen space is a premium) a real possibility.
 
 ## Courses
  
