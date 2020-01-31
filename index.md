@@ -76,7 +76,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Manuel Valle Torre (Delft Data Science research engineer, ongoing)
 - Arthur Barbosa Câmara (PhD student, since 11/2018)
 - Gustavo Penha (PhD student, since 11/2018)
-- Nirmal Roy (PhD student, since 09/2019)
+- [Nirmal Roy](https://roynirmal.github.io/) (PhD student, since 09/2019)
 - Huiyuan Lai (Phd student, since 09/2019)
 - Sara Salimzadeh (Phd student, since 11/2019)
 - Peide Zhu (PhD student, since 11/2019)
