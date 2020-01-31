@@ -14,6 +14,7 @@
 
 ## Material to read in preparation of your thesis
 
+- [An opinionated guide to ML research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 - [How to write code for NLP research](https://github.com/allenai/writing-code-for-nlp-research-emnlp2018)
 - [How to come up with research questions](http://pgbovine.net/research-design-patterns.htm)!
 - [Which papers can I read to catch up on the latest trends in NLP?](https://medium.com/huggingface/the-best-and-most-current-of-modern-natural-language-processing-5055f409a1d1)
