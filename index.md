@@ -75,7 +75,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing)
 - Manuel Valle Torre (Delft Data Science research engineer, ongoing)
 - Arthur Barbosa Câmara (PhD student, since 11/2018)
-- Gustavo Penha (PhD student, since 11/2018)
+- [Gustavo Penha](https://guzpenha.github.io/guzblog/) (PhD student, since 11/2018)
 - [Nirmal Roy](https://roynirmal.github.io/) (PhD student, since 09/2019)
 - Huiyuan Lai (Phd student, since 09/2019)
 - Sara Salimzadeh (Phd student, since 11/2019)
