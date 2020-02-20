@@ -136,6 +136,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Editorial Board member of Springer's [Information Retrieval Journal](https://www.springer.com/10791)
 - Tutorial Chair at the [40th European Conference on Information Retrieval](http://ecir2018.org/) (2018)
 - Invited talk at the [Education in exponential times](http://www.emadridnet.org/index.php/en/events/909-vii-emadrid-workshop) workshop in Madrid (July 2017) 
+- Program co-chair of ECIR 2017
 - Member of the advisory board of the European project [AFEL](http://afel-project.eu/) (May 2017)
 - Organizer of the [Delft Data Science Seminar on Online Education](http://bit.ly/dds-online-education) (March 2017)
 - Editorial Board member of the [Foundations and Trends in Information Retrieval](http://www.nowpublishers.com/INR) journal 
