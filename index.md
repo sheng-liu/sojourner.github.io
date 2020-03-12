@@ -5,6 +5,7 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
+- [IR lecture](https://docs.google.com/presentation/d/10_RuZKsd_EcjyiBiedCk1pm3yEpvd2g4lP116Hd1lQw/edit?usp=sharing)
 - I created a [slide deck](https://docs.google.com/presentation/d/e/2PACX-1vSq69WuoMBqn2lSwHDzpTLieiZkBQuWUd-HqovzbbyHHmLAD9k18Yq-97VaS-lEyQcJk4afvqTj3KLT/pub?start=false&loop=false&delayms=3000#slide=id.g35f391192_00) to summarize the trends in recent conversational ai/search/agents workshops.
 - Two full papers accepted at [ECIR 2020](https://ecir2020.org/): one on curriculum learning for IR (led by Gustavo Penha) and one on analyzing BERT with retrieval heuristics (led by Arthur Câmara).
 - As of late 2019, I am looking for *MSc thesis students* interested in the topics of **information retrieval** and **natural language processing**!
