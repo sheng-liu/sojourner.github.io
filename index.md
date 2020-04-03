@@ -5,7 +5,6 @@ subtitle: Web Information Systems, TU Delft
 ---
 
 ## News
-- I created a [slide deck](https://docs.google.com/presentation/d/e/2PACX-1vSq69WuoMBqn2lSwHDzpTLieiZkBQuWUd-HqovzbbyHHmLAD9k18Yq-97VaS-lEyQcJk4afvqTj3KLT/pub?start=false&loop=false&delayms=3000#slide=id.g35f391192_00) to summarize the trends in recent conversational ai/search/agents workshops.
 - Two full papers accepted at [ECIR 2020](https://ecir2020.org/): one on curriculum learning for IR (led by Gustavo Penha) and one on analyzing BERT with retrieval heuristics (led by Arthur Câmara).
 - As of late 2019, I am looking for *MSc thesis students* interested in the topics of **information retrieval** and **natural language processing**!
 - Freshly elected member of the ACM SIGIR executive committee, my three-year term starts July 1, 2019!
@@ -49,13 +48,13 @@ including query performance prediction (the topic of [my PhD thesis](../document
 social search, computational social science, 
 learning to search and IR for specific user groups.
 
-I have diverse research interests and am always happy to dive into a new area. Together with a number of PhD students I am currently focusing on how to incorporate search into the human learning process at scale, collaborative search, conversational search and neural approaches to IR. In 2016 and 2017 I received two prestigious personal grants from the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area. Take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground (many users with actual learning and search needs) for my [Lambda-Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/projects/lambda-lab/) team. In the past few years, in addition to IR, I have also been active in the area of learning analytics (data science applied to large-scale educational data traces).
+I have diverse research interests and am always happy to dive into a new area. Together with a number of PhD students I am currently focusing on **how to incorporate search into the human learning process at scale**, **collaborative search**, **conversational search** and neural approaches to IR. In 2016 and 2017 I received two prestigious personal grants from the Netherlands Organisation for Scientific Research (NWO) with a total funding of more than 1 million euros; this translates into 4-5 PhD/postdoc positions in the developing "search as learning" research area. Take a look at the [Dagstuhl Seminar](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=17092) I co-organized on the topic to get an idea of what it is about. TU Delft is a very active provider of Massive Open Online Courses (MOOCs) on the edX platform, which provides a rich experimental playground (many users with actual learning and search needs) for my [Lambda-Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/projects/lambda-lab/) team. In the past few years, in addition to IR, I have also been active in the area of learning analytics (data science applied to large-scale educational data traces).
 
 In 2018, I gave an invited keynote at the French IR conference [CORIA 2018](https://project.inria.fr/coriataln2018/fr/) on the topic of search as learning:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-We do our best in my lab to keep our *one-slide-per-paper* presentation updated. With three PhD students in 2019 finishing on the topic of learning analytics, you will find a lot of learning papers in there. We are now shifting gears, back to more NLP/IR:
+We do our best in my lab to keep our *one-slide-per-paper* presentation updated (to make this manageable we keep the presentation focused on the past 2-3 years):
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT4kV6uojsYwbTMxhzTGP5k_9wNV2kZtR6OHGm0bT-ayrUnoNFiV-kK_vBtfJdSrsHQfMlmWelrJQ-p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -72,8 +71,9 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 ```
 
 ## Current members of my lab
-- [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (PhD student, ongoing)
+- David Maxwell (postdoc, since 03/2020)
 - Manuel Valle Torre (Delft Data Science research engineer, ongoing)
+- [Felipe Moraes](http://www.wis.ewi.tudelft.nl/moraes/) (since 2017)
 - Arthur Barbosa Câmara (PhD student, since 11/2018)
 - [Gustavo Penha](https://guzpenha.github.io/guzblog/) (PhD student, since 11/2018)
 - [Nirmal Roy](https://roynirmal.github.io/) (PhD student, since 09/2019)
