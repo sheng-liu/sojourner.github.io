@@ -22,6 +22,9 @@
 
 ## A few useful DL resources
 - Attention/transformer blog posts: [1](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html) and [2](https://lilianweng.github.io/lil-log/2020/04/07/the-transformer-family.html)
+- [Dive into Deep Learning](https://d2l.ai/index.html)
+- [fastai courses](https://www.fast.ai/)
+- [Embeddings in NLP](http://josecamachocollados.com/book_embNLP_draft.pdf)
 
 ## Checklists
 - For machine learning oriented projects: [ML code completeness checklist](https://medium.com/paperswithcode/ml-code-completeness-checklist-e9127b168501)
