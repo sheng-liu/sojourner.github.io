@@ -20,7 +20,7 @@ I also have a set of topics that I am ready to give away:
  Below are the resources I have developed for my courses (some are more up-to-date than others): 
  *Big Data Processing*, *Web and Database Technology* and *Information Retrieval*.
 
-[bdp](### Big Data Processing)
+### Big Data Processing
 
 Since 2013/2014 I have been teaching the second year Bachelor course *Big Data Processing* at TU Delft (with 2016/17 being the last time for now). The course covers a range of technologies in the Hadoop ecosystem after a short excursion into the streaming world; 
 I created the material based on a number of great books, including [Mining of Massive Datasets](http://www.mmds.org/),
