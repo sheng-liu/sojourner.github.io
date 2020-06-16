@@ -111,7 +111,7 @@ Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
 - Invited keynote at the [1st International Workshop on Investigating Learning During Web Search](https://iwilds2020.wordpress.com/) co-located with CIKM 2020
 - Short paper co-chair at SIGIR 2021
 - Workshop co-chair at WSDM 2021
-- Invited keynote at [Baltic DB&IS 2020](https://dbis.ttu.ee/)
+- Invited keynote at [Baltic DB&IS 2020](https://dbis.ttu.ee/) ([slides](https://docs.google.com/presentation/d/e/2PACX-1vQu5aCFGV_cvTbt8fXMf_CIDPbVjBJdYGSYHbi4D126hO8Zqv6jwrEpQAHGm9uQfIKGxMPpQ1HVkP1P/pub?start=false&loop=false&delayms=3000))
 - Lecturer at the SIKS course *Advances in Information Retrieval* (October 2019)
 - Invited talk ([slides](https://docs.google.com/presentation/d/1K9uo5J8BSCwskOMG2LGA-b4w_4QhKUzeI9vD545obrc/edit?usp=sharing)) at the [ICAI AIRLab meetup in Utrecht](https://docs.google.com/presentation/d/e/2PACX-1vRsb_bqqqDhfRmc_hbpDivzIVSHWF0YHAnFwjsfXQJq7kw7lYqryhMaZPtXbONgDv8b6vS_4QHtvdTF/pub?start=false&loop=false&delayms=3000#slide=id.p) (September 2019)
 - ACM SIGIR Executive Committee member (2019-2022)
