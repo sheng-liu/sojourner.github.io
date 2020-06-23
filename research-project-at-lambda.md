@@ -14,7 +14,8 @@
 
 
 ## Material to read in preparation of your project
-
+- [Book on Search User Interfaces](http://searchuserinterfaces.com): very good starting point for those wanting to dive deeper into search engine interfaces
+- [Methods for Evaluating Interactive Information Retrieval Systems with Users](https://ils.unc.edu/courses/2017_fall/inls509_002/papers/FnTIR-Press-Kelly.pdf): a must-read book for those interested in designing interactive IR studies
 - [An opinionated guide to ML research](http://joschu.net/blog/opinionated-guide-ml-research.html)
 - [How to write code for NLP research](https://github.com/allenai/writing-code-for-nlp-research-emnlp2018)
 - [How to come up with research questions](http://pgbovine.net/research-design-patterns.htm)!
