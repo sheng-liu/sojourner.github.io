@@ -27,10 +27,15 @@ avatar: "/img/sojourner_logo.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
-  Teaching: "teaching"
+  PRO: "PRO"
   #Datasets: "datasets"
-  Publications: "publications"
+  About: "About"
+  Blog: "blog"
+  Quick Links:
+    - Vignette: "https://bioconductor.org/packages/release/bioc/vignettes/sojourner/inst/doc/sojourner-vignette.html" 
+    - Reference: "https://github.com/sheng-liu/sojourner.pro"
+    - GitHub: "https://github.com/sheng-liu/sojourner"
+    - Bioconductor: "https://bioconductor.org/packages/sojourner/"
  
 # --- Footer options --- #
 
