@@ -36,7 +36,7 @@ navbar-links:
     - Reference: "https://sheng-liu.github.io/sojourner"
     - GitHub: "https://github.com/sheng-liu/sojourner"
     - Bioconductor: "https://bioconductor.org/packages/sojourner/"
- 
+  Author's home: "https://sheng-liu.github.io"
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -46,7 +46,7 @@ author:
   email: "sheng.liu[at]outlook.ca"
   github: sheng-liu    # eg. daattali
   twitter: sojourner   # eg. daattali
-  og_image: "/img/og_claudia.png"
+  #og_image: "/img/og_claudia.png"
 
 # Select which links to show in the footer
 footer-links-active:
