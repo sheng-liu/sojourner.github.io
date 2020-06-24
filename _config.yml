@@ -31,8 +31,8 @@ navbar-links:
   #Datasets: "datasets"
   About: "About"
   Blog: "blog"
-  Resources:
-      - Reference: "https://sheng-liu.github.io/sojourner"
+  Resources: "https://sheng-liu.github.io/sojourner"
+#  - Reference: "https://sheng-liu.github.io/sojourner"
 #    - Vignette: "https://bioconductor.org/packages/release/bioc/vignettes/sojourner/inst/doc/sojourner-vignette.html" 
 #    - Bioconductor: "https://bioconductor.org/packages/sojourner/"
   Author's home: "https://sheng-liu.github.io"
@@ -42,7 +42,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Sheng Liu
-  email: "sheng.liu[at]outlook.ca"
+  email: "sheng.liu@outlook.ca"
   github: sheng-liu    # eg. daattali
   twitter: sojourner   # eg. daattali
   #og_image: "/img/og_claudia.png"
