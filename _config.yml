@@ -31,10 +31,9 @@ navbar-links:
   #Datasets: "datasets"
   About: "About"
   Blog: "blog"
-  QuickLinks:
+  Resources:
     - Vignette: "https://bioconductor.org/packages/release/bioc/vignettes/sojourner/inst/doc/sojourner-vignette.html" 
     - Reference: "https://sheng-liu.github.io/sojourner"
-    - GitHub: "https://github.com/sheng-liu/sojourner"
     - Bioconductor: "https://bioconductor.org/packages/sojourner/"
   Author's home: "https://sheng-liu.github.io"
 # --- Footer options --- #
